@@ -1,0 +1,14 @@
+.flx {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 80px;
+
+    .sec {
+        width: 45%;
+        padding: 50px 0;
+        background-color: #ccc;
+        text-align: center;
+    }
+}
