@@ -21,7 +21,7 @@
         <div class="sec master">ローカルのmasterです</div>
         <div class="sec develop">ローカルのdevelopです</div>
         <div class="sec release">ローカルのreleaseです</div>
-        <div class="sec sagyo">ローカルの作業です</div>
+        <div class="sec sagyo">ローカルで作業しました！</div>
     </div>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
