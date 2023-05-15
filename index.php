@@ -11,17 +11,17 @@
 
 <body>
 
-    <div class="flx">
-        <div class="sec">リモートのmasterです</div>
-        <div class="sec">リモートのdevelopです</div>
-        <div class="sec">リモートのreleaseです</div>
-        <div class="sec">リモートの作業です</div>
+    <div class="flx remote">
+        <div class="sec master">リモートのmasterです</div>
+        <div class="sec develop">リモートのdevelopです</div>
+        <div class="sec release">リモートのreleaseです</div>
+        <div class="sec sagyo">リモートの作業です</div>
     </div>
-    <div class="flx">
-        <div class="sec">ローカルのmasterです</div>
-        <div class="sec">ローカルのdevelopです</div>
-        <div class="sec">ローカルのreleaseです</div>
-        <div class="sec">ローカルの作業です</div>
+    <div class="flx local">
+        <div class="sec master">ローカルのmasterです</div>
+        <div class="sec develop">ローカルのdevelopです</div>
+        <div class="sec release">ローカルのreleaseです</div>
+        <div class="sec sagyo">ローカルの作業です</div>
     </div>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
